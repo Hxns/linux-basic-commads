@@ -1,6 +1,6 @@
 # Comandos Básicos de Linux
 
-Este repositorio contiene una lista de comandos básicos de Linux y sus descripciones. Estos comandos son esenciales para administrar y obtener información sobre el sistema.
+Lista de comandos básicos de Linux y sus descripciones. Estos comandos son esenciales para administrar y obtener información sobre el sistema.
 
 ## Comandos y Descripciones
 
